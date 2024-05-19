@@ -1,5 +1,5 @@
 # Bank_Managemet_System_With_CPP
-//Expexted Output
+//Expected Output
 ...................................
 Bank Management System
 1. Admin Mode
