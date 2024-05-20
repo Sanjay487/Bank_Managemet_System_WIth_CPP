@@ -1,4 +1,3 @@
-Beauty of cpp,
 # Bank_Managemet_System_With_CPP
 //Expected Output
 ...................................
